@@ -49,7 +49,7 @@ This project is specific to the IMC Trading Challenge 2024 and is not intended f
 
 As mentioned, this project is specific to the IMC Trading Challenge 2024 and is not usable outside the IMC Trading simulator.
 
-### Configuration
+## Configuration
 
 This project comes pre-configured for the IMC Trading Challenge 2024. However, there are several parameters and settings you might want to adjust to tailor the algorithm to different conditions or preferences:
 
