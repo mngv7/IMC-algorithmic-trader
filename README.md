@@ -4,6 +4,7 @@ This project implements two trading strategies: a Mean Reversion strategy and a 
 
 ## Table of Contents
 - [Description](#description)
+- [Achievements](#achievements)
 - [Strategies](#strategies)
   - [Mean Reversion Strategy](#mean-reversion-strategy)
   - [Linear Regression Strategy](#linear-regression-strategy)
@@ -17,6 +18,12 @@ This project implements two trading strategies: a Mean Reversion strategy and a 
 ## Description
 
 The IMC Trading Algorithm project showcases two well-known trading strategies: Mean Reversion and Linear Regression. These strategies are implemented to demonstrate coding skills in the context of the IMC Trading Challenge 2024.
+
+## Achievements
+
+In the IMC Trading Challenge 2024, this project achieved notable rankings:
+- **70th in Australia**
+- **800th in the World**
 
 ## Strategies
 
@@ -58,4 +65,4 @@ The license for this project is currently unspecified.
 
 Zackariya Taylor - zackariya.taylor@gmail.com
 
-Project Link:
+Project Link: 
