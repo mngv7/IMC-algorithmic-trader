@@ -87,6 +87,10 @@ The license for this project is currently unspecified.
 
 ## Contact Information
 
+**Contributors:**
+
 Zackariya Taylor - zackariya.taylor@gmail.com
+
+Owen Harding
 
 Project Link: https://github.com/mngv7/IMC-algorithmic-trader
