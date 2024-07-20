@@ -49,9 +49,33 @@ This project is specific to the IMC Trading Challenge 2024 and is not intended f
 
 As mentioned, this project is specific to the IMC Trading Challenge 2024 and is not usable outside the IMC Trading simulator.
 
-## Configuration
+### Configuration
 
-No additional configuration is required for this project.
+This project comes pre-configured for the IMC Trading Challenge 2024. However, there are several parameters and settings you might want to adjust to tailor the algorithm to different conditions or preferences:
+
+1. **Simple Moving Average (SMA) Windows**
+    - Customize the short-term and long-term SMA windows to suit different trading strategies.
+    ```python
+    SHORT_WINDOW = 10  # Short-term SMA window
+    LONG_WINDOW = 25   # Long-term SMA window
+    ```
+
+2. **Linear Regression Scope**
+    - Modify the scope (number of data points) used for the linear regression calculation.
+    ```python
+    # Example usage in the calculate_linear_regression function
+    scope = 25  # Number of data points to consider
+    ```
+
+3. **Product-Specific Settings**
+    - If needed, adjust settings specific to each product being traded. For example, you might want different SMA windows for different products.
+    ```python
+    # Example for setting different SMA windows for different products
+    PRODUCT_SMA_WINDOWS = {
+        'AMETHYSTS': {'SHORT_WINDOW': 10, 'LONG_WINDOW': 25},
+        'STARFRUIT': {'SHORT_WINDOW': 15, 'LONG_WINDOW': 30}
+    }
+    ```
 
 ## Contributing
 
