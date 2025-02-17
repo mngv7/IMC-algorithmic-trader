@@ -1,6 +1,6 @@
 # IMC Trading Algorithm
 
-This project implements two trading strategies: a Mean Reversion strategy and a Linear Regression strategy. These strategies are designed for the IMC Trading Challenge 2024 and are implemented in Python. The financial concepts revolving this project proved difficult to wrap our heads around, however we were able to complete 2 out of the 5 rounds in the challenge, before getting swarmed by university work.
+This project implements two trading strategies: a Mean Reversion strategy and a Linear Regression strategy. These strategies are designed for the IMC Trading Challenge 2024 and are implemented in Python. We were able to complete 2 out of the 5 rounds in the challenge, before getting swarmed by university work.
 
 ## Table of Contents
 - [Description](#description)
